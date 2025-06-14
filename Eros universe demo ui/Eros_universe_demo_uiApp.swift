@@ -11,7 +11,6 @@ import SwiftUI
 struct Eros_universe_demo_uiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
-        }
+            FaceSwapView()        }
     }
 }
